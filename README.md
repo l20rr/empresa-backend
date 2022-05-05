@@ -3,7 +3,7 @@ a criação desse sistema foi idealizada para ajudar a gestão de pequenas empre
 
 # Divisão do back-end
 
-Na pasta "SRC" está dividida em controllers e models
+Na pasta "SRC" está dividida em controllers, models e routes.
 
 Em controllers, pensando em organizar o  código, dividi ele pensando em um padrão MVC, pondo a lógica de como fazer a integração  com o banco de dados e de como cada objeto irá se comportar.
 
